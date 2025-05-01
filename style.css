@@ -244,6 +244,88 @@ body{
 #b3{
     background-color: yellow;
 }
+.toto{
+    width: 33%;
+    height: 100%;
+
+}
+.toto2{
+    width: 33%;
+    height: 100%;
+}
+.bot2{
+    display: flex;
+}
+.toto3{
+    width: 33%;
+    height: 100%;
+}
+.lista2 li {
+    width: 30%;
+    height: 10px;
+    background-color: white;
+}
+#l li{
+    width: 30%;
+    height: 10px;
+    background-color: white;
+    margin-left: 360px;
+}
+.o li{
+    background-color: #666;
+}
+.ivocra1{
+    width: 30%;
+    height: 10px;
+    background-color: #666;
+    margin-left: 360px;
+}
+.toto {
+    display: flex;
+    flex-direction: column;
+    ali
+    justify-content:center;
+}
+.lista23 li {
+    width: 30%;
+    height: 10px;
+    background-color: white;
+}
+#l li{
+    width: 30%;
+    height: 10px;
+    background-color: white;
+    margin-left: 360px;
+}
+.o li{
+    background-color: #666;
+}
+.ivocra1{
+    width: 30%;
+    height: 10px;
+    background-color: #666;
+    margin-left: 360px;
+}
+.lista2 li {
+    width: 30%;
+    height: 10px;
+    background-color: white;
+}
+#l li{
+    width: 30%;
+    height: 10px;
+    background-color: white;
+    margin-left: -360px;
+}
+.o0 li{
+    background-color: #666;
+}
+.ivocra10{
+    width: 30%;
+    height: 10px;
+    background-color: #666;
+    margin-left: -360px;
+}
 
 
 
