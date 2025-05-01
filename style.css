@@ -178,7 +178,7 @@ body{
     height: 20px;
     background-color: #666;
     margin: 10px auto;
-    margin-top: 30px;
+    margin-top: 60px;
     margin-bottom: 20px;
 }
 
@@ -210,7 +210,6 @@ body{
 .bot2{
     width: 100%;
     height: 50%;
-    background-color: black;
 }
 .bot1y1{
     width: 33%;
@@ -295,7 +294,6 @@ body{
     width: 30%;
     height: 10px;
     background-color: white;
-    margin-left: 360px;
 }
 .o li{
     background-color: #666;
@@ -303,8 +301,6 @@ body{
 .ivocra1{
     width: 30%;
     height: 10px;
-    background-color: #666;
-    margin-left: 360px;
 }
 .lista2 li {
     width: 30%;
@@ -315,16 +311,65 @@ body{
     width: 30%;
     height: 10px;
     background-color: white;
-    margin-left: -360px;
 }
-.o0 li{
+.o li{
     background-color: #666;
 }
 .ivocra10{
     width: 30%;
     height: 10px;
     background-color: #666;
-    margin-left: -360px;
+}
+.toto {
+    display: flex;
+    justify-content: start;  
+    align-items: center;      
+}
+.toto2 {
+    display: flex;
+    justify-content: start;  
+    align-items: center;      
+}
+
+.ivo{
+    width: 30%;
+    height: 5%;
+    background-color:black;
+}
+.toto{
+    justify-content: top;
+    align-items: end;
+    display: flex;
+    gap: 20px;
+}
+.ivo1{
+    width: 30%;
+    height: 5%;
+    background-color: #666;
+}
+.ivo2{
+    width: 30%;
+    height: 5%;
+    background-color: #666;
+}
+.pau{
+    width: 30%;
+    height: 5%;
+    background-color:black;
+}
+
+.pau1{
+    width: 30%;
+    height: 5%;
+    background-color: #666;
+}
+#tit{
+    justify-content: start;
+    align-items: start;
+}
+#tot{
+    justify-content: start;
+    align-items: center;
 }
 
 
