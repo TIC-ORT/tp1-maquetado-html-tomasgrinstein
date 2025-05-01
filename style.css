@@ -33,6 +33,10 @@ body{
     width: 100%;
     height: 20vh;
     background-color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5vw;
 }
 .top1y1{
     width: 30vw;
@@ -57,15 +61,25 @@ body{
     background-color:white;
     align-items: center;
 }
-.top1y1y2y1{
-    width: 20vw;
+.top1y1y2 {
+    display: flex;
+    gap: 5vw; 
+    justify-content: center; 
 }
-.top1y1y2y2{
-    width: 20vw;
+
+.top1y1y2y1,
+.top1y1y2y2,
+.top1y1y2y3,
+.top1y1y2y4 {
+    width: 15vw;
+    height: 20px; 
+    background-color: beige;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
 }
-.top1y1y2y3{
-    width: 20vw;
-}
-.top1y1y2y4{
-    width: 20vw;
-}
+
+
+
+
