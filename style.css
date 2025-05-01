@@ -39,3 +39,33 @@ body{
     height: 7vh;
     background-color: black;
 }
+.top1y1y1{
+    height: 100%;
+    width: 90%;
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.top1y1y2{
+    height: 100%;
+    width: 90%;
+}
+.top1y1y1y1{
+    height: 30%;
+    width: 80%;
+    background-color:white;
+    align-items: center;
+}
+.top1y1y2y1{
+    width: 20vw;
+}
+.top1y1y2y2{
+    width: 20vw;
+}
+.top1y1y2y3{
+    width: 20vw;
+}
+.top1y1y2y4{
+    width: 20vw;
+}
