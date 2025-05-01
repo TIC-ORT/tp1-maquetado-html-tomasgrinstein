@@ -81,6 +81,8 @@ body{
 }
 .med{
     display: flex;
+    width: 100%;
+    height: 40vh;
 }
 .med1{
     width: 30%;
@@ -107,7 +109,6 @@ body{
 .med1y1y2{
     width: 100%;
     height: 80%;
-    background-color: black;
     display: flex;
     justify-content: center;
 }
@@ -128,14 +129,80 @@ body{
 .mede1{
     width: 40%;
     height: 40%;
-    background-color: brown;
+    background-color:aquamarine;
 }
 .medo1{
     width: 70%;
     height: 40%;
-    background-color: black;
+    background-color:white;
     margin-left: 5px;
 }
+.mede11{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: start;
+    margin-top: 10px;
+}
+.medo11{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: flex-start;
+    margin-top: 10px;
+}
+.mede12{
+    width: 40%;
+    height: 10%;
+    background-color:aquamarine;
+}
+.medo12{
+    width: 70%;
+    height: 10%;
+    background-color:white;
+    margin-left: 5px;
+}
+.med1 {
+    width: 30%;
+}
+
+.med2 {
+    width: 60%;
+    height: 100%;
+
+}
+.ivocra {
+    width: 60%;
+    height: 20px;
+    background-color: #666;
+    margin: 10px auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.lista {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    
+}
+
+.lista li {
+    width: 60%;
+    height: 10px;
+    background-color: white;
+}
+.lista li.eee {
+    width: 40%; 
+}
+
+
 
 
 
